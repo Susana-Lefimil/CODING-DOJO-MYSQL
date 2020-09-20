@@ -1,4 +1,4 @@
--- PARTICIPANTES JHADYRA ROMERO, JORGE RAMIREZ, ALLAND ACEVEDO, SUSANA LEFIMIL
+
 
 -- 1. ¿Qué consulta ejecutaría para obtener los ingresos totales para marzo de 2012?
 USE lead_gen_business;
